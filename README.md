@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+Hi! I'm **Pawel** and I'm a self-taught frontend developer. 
+
+
+* Currently, I'm diving deep into Vue and Nuxt.
+* I'm **looking for job to develop my skills**.
+
+
 
 <!--
 **czarsbenemoriendi/czarsbenemoriendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
